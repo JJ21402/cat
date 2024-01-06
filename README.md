@@ -1,1 +1,1 @@
-# JJ21402.github.io
+# Scratch-Card-using-HTML-and-CSS
